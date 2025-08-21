@@ -9,7 +9,8 @@
 @base <http://SustainHealthyFoodOntology> .
 
 <http://SustainHealthyFoodOntology> rdf:type owl:Ontology ;
-                                     owl:imports gufo: .
+                                     owl:imports <http://purl.org/nemo/gufo#> .
+
 
 #################################################################
 #    Annotation properties
